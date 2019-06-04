@@ -1,0 +1,11 @@
+cite {
+    height: 40px;
+    line-height: 40px;
+    padding-left: 10px;
+    padding-right: 30px;
+}
+
+.log_view {
+    height: 45%;
+    width: 90%;
+}

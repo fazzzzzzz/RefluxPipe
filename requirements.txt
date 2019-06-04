@@ -1,0 +1,5 @@
+django
+djongo
+channels
+channels_redis
+pyotp
