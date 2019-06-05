@@ -83,6 +83,14 @@ $ python manage.py migrate
 $python manage.py runserver 0.0.0.0:80 --insecure
 ```
 
+## 使用帮助
+----
+服务运行后，访问`http://registe.{您的域名}:端口号/admin/`进入注册页面。
+
+>首次注册邀请码为`admin`，默认为管理员权限（仅可使用一次）
+
+注册成功之后，再次登录请访问`http://{您设置的别名}.{您的域名}:端口号/admin/`进入后台。
+
 ## 问题相关
 ----
 有任何问题欢迎提Issue，或者将问题描述发送至我邮箱 `faz658026#gmail.com`，我会尽快解答。
