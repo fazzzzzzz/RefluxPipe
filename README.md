@@ -1,6 +1,7 @@
 # RefluxPipe
+----
+一款基于`Django2.2`开发的监控HTTP访问记录和DNS解析记录的工具。
 
-一款基于`Django2.2`开发的监控HTTP访问记录和DNS解析记录 的工具。
 [![License](https://img.shields.io/badge/license-GPLv3-red.svg)](https://github.com/faz658026/RefluxPipe/blob/master/LICENSE) [![Python 3.7](https://img.shields.io/badge/python-3.7-yellow.svg)](https://www.python.org/) [![Mongodb 4.0](https://img.shields.io/badge/mongodb-4.0-blue.svg)](https://www.mongodb.com/)  [![Redis 5.0](https://img.shields.io/badge/redis-5.0-red.svg)](https://redis.io/)  
 ----------
 **本工具只做日志记录，无攻击性行为。请使用者遵守《[中华人民共和国网络安全法](http://www.npc.gov.cn/npc/xinwen/2016-11/07/content_2001605.htm)》，勿将本系统用于非授权的测试，作者不负任何连带法律责任。**
