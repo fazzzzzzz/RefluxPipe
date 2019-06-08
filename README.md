@@ -93,5 +93,5 @@ $python manage.py runserver 0.0.0.0:80 --insecure
 
 ## 问题相关
 ----
-有任何问题欢迎提Issue，或者将问题描述发送至我邮箱 `faz658026#gmail.com`，我会尽快解答。
+有任何问题欢迎提Issue，或者将问题描述发送至我邮箱 `faz658026#gmail.com`。
 
