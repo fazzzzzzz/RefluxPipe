@@ -37,9 +37,9 @@ $ apt install -y mongodb-org redis
 简单的来说，NS服务器域名需要配置两个A记录指向您的服务器IP。
 
 例如:
->设置`ns1.a.cn`的A记录为`1.1.1.1`
+>设置`ns1.a.cn`的A记录为`1.1.1.1（您的服务器IP）`
 
->设置`ns2.a.cn`的A记录为`1.1.1.1`
+>设置`ns2.a.cn`的A记录为`1.1.1.1（您的服务器IP）`
 
 另一个域名的NS记录设定为`ns1.a.cn`和`ns2.a.cn`。
 
@@ -80,7 +80,7 @@ $ python manage.py makemigrations
 $ python manage.py migrate
 
 # 运行
-$python manage.py runserver 0.0.0.0:80 --insecure
+$ python manage.py runserver 0.0.0.0:80 --insecure
 ```
 
 ## 使用帮助
@@ -93,5 +93,5 @@ $python manage.py runserver 0.0.0.0:80 --insecure
 
 ## 问题相关
 ----
-有任何问题欢迎提Issue，或者将问题描述发送至我邮箱 `faz658026#gmail.com`。
+有任何问题欢迎提Issue，或者将问题描述发送至我邮箱 `faz658026#gmail.com` :)
 
