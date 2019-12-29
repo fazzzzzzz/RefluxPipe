@@ -10,7 +10,7 @@
 ### 1.获取源码
 
 ```shell
-$ git clone git@github.com:faz658026/RefluxPipe.git
+$ git clone git@github.com:fazzzzzzz/RefluxPipe.git
 ```
 ### 2.安装依赖
 
@@ -93,5 +93,5 @@ $ python manage.py runserver 0.0.0.0:80 --insecure
 
 ## 问题相关
 ----
-有任何问题欢迎提Issue，或者将问题描述发送至我邮箱 `faz658026#gmail.com` :)
+有任何问题欢迎提Issue :)
 
